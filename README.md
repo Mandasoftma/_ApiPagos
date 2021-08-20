@@ -33,7 +33,7 @@ Prueba Técnica Desarrollo -.NET Core 3.1
   2.	Una vez creada la factura de manera satisfactoria se procede consume el servicio de logística el cual generar la guía de entrega de los productos adquiridos.
   
   
-  # Documentos:
+# Documentos:
   * Arquitectura.png
   * MER.png
   * PagosTuya.postman_collection.json
@@ -43,7 +43,7 @@ Prueba Técnica Desarrollo -.NET Core 3.1
   	* Logistica => Api_de_logistica.json
   	* Pagos => Api_de_pago.json
   	
-  # Cómo inicializar ,compilar y ejecutar el proyecto:
+# Cómo inicializar ,compilar y ejecutar el proyecto:
   1. Descargue el proyecto en un repositorio local.
   2. Una vez descargado en su repositorio loca, instale las dependencias utilizando
   	npm install
@@ -56,16 +56,18 @@ Prueba Técnica Desarrollo -.NET Core 3.1
   6. Abra la solución en visual estudio 2019 y verifique que la opción de proyecto de inicio múltiple este activa y que cada proyecto tenga la acción en iniciar.
   7. Ahora si play en vs2019.
  
- # Consumo y uso de las apis:
+# Consumo y uso de las apis:
  1. Importe la colección postman
   	PagosTuya.postman_collection.json
  2. Una importada la colección ubíquese en la carpeta de Pagos
  3. Y se visualizan los endpoint para generar la factura y consultar
- 4. Para generar una factura el método post requiere un body con los siguientes parámetros:
-    
-    int ClienteId  => de 1 a 1000
-		List<Item> Productos que resibe
-		int Id => de 1 a 1000 
+ 4. Para generar una factura el método post requiere un body con los siguientes parámetros:  
+
+
+   int ClienteId  => de 1 a 1000
+   List Productos que recibe siguiente estructura
+      
+	int Id => de 1 a 1000 
         int ProductoId => de 1 a 1000 esto pensando en generar api de productos.
         int Cantidad => de 1 a 1000
         double Precio
