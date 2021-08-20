@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZbXJdaA+ykkZSJSabEkneL8rgMsxvfEwMPJVQsD/lem79T6ygJVBr3+XllEgDFb/kWzAwy8M5DhrE6IycmnZUA==",
+  "dgSpecHash": "c6dKDw5Bios86XWfJEHBL5ywPOf69oYCeCSZ4PcE4gtNanMDyUuJGKFi0MPlMrB9Rw7KODqDVEZnj0XB3d20Ew==",
   "success": true,
-  "projectFilePath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiPagos\\ApiPagos.csproj",
+  "projectFilePath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiPagos\\ApiPagos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mandasoftma\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Mandasoftma\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

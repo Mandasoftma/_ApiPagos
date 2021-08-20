@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiLogística\\ApiLogística.csproj": {}
+    "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiLogística\\ApiLogística.csproj": {}
   },
   "projects": {
-    "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiLogística\\ApiLogística.csproj": {
+    "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiLogística\\ApiLogística.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiLogística\\ApiLogística.csproj",
+        "projectUniqueName": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiLogística\\ApiLogística.csproj",
         "projectName": "ApiLogística",
-        "projectPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiLogística\\ApiLogística.csproj",
+        "projectPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiLogística\\ApiLogística.csproj",
         "packagesPath": "C:\\Users\\Mandasoftma\\.nuget\\packages\\",
-        "outputPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiLogística\\obj\\",
+        "outputPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiLogística\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mandasoftma\\AppData\\Roaming\\NuGet\\NuGet.Config",

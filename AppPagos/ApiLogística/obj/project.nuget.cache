@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7krejJYSAM+XUfdGeNmI2mOHnk7vwe6pNFjd7ESGATlax7SDkbRF7hEkstl8fcMdnGh3crphqeBwdFw0hg3HQ==",
+  "dgSpecHash": "3SLbp9B2BJilPuHkMD631nLQgwK/1JWdEIN/Seqt87YAZkjZoPPcoTVtRPSfS6kGbtaB9caf1qKNm/ono1CYRw==",
   "success": true,
-  "projectFilePath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiLogística\\ApiLogística.csproj",
+  "projectFilePath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiLogística\\ApiLogística.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mandasoftma\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mandasoftma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

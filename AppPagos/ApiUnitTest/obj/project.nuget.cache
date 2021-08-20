@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ipTBUm3L/RLRjsfM/t3+KfrAOGGmk5qs+0Kc8xRju6D/znK2D/KAy9K+/BauRj1oi6fSPJMIgrDvlto5lHIGCA==",
+  "dgSpecHash": "bbE4jHVzKSGb/sPb49aGONs85z+zYhsNzZNV3tI97z6fmXUlpNSM/YJBTQgkBo33/HRWKcGCxV2xV3sMkvNVjA==",
   "success": true,
-  "projectFilePath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj",
+  "projectFilePath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mandasoftma\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Mandasoftma\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

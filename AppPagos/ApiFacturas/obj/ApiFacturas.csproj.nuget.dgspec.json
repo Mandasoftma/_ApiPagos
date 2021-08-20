@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiFacturas\\ApiFacturas.csproj": {}
+    "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiFacturas\\ApiFacturas.csproj": {}
   },
   "projects": {
-    "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiFacturas\\ApiFacturas.csproj": {
+    "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiFacturas\\ApiFacturas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiFacturas\\ApiFacturas.csproj",
+        "projectUniqueName": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiFacturas\\ApiFacturas.csproj",
         "projectName": "ApiFacturas",
-        "projectPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiFacturas\\ApiFacturas.csproj",
+        "projectPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiFacturas\\ApiFacturas.csproj",
         "packagesPath": "C:\\Users\\Mandasoftma\\.nuget\\packages\\",
-        "outputPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiFacturas\\obj\\",
+        "outputPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiFacturas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mandasoftma\\AppData\\Roaming\\NuGet\\NuGet.Config",

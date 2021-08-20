@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj": {}
+    "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj": {}
   },
   "projects": {
-    "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiPagos\\ApiPagos.csproj": {
+    "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiPagos\\ApiPagos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiPagos\\ApiPagos.csproj",
+        "projectUniqueName": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiPagos\\ApiPagos.csproj",
         "projectName": "ApiPagos",
-        "projectPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiPagos\\ApiPagos.csproj",
+        "projectPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiPagos\\ApiPagos.csproj",
         "packagesPath": "C:\\Users\\Mandasoftma\\.nuget\\packages\\",
-        "outputPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiPagos\\obj\\",
+        "outputPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiPagos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mandasoftma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj": {
+    "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj",
+        "projectUniqueName": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj",
         "projectName": "ApiUnitTest",
-        "projectPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj",
+        "projectPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiUnitTest\\ApiUnitTest.csproj",
         "packagesPath": "C:\\Users\\Mandasoftma\\.nuget\\packages\\",
-        "outputPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiUnitTest\\obj\\",
+        "outputPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mandasoftma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +104,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiPagos\\ApiPagos.csproj": {
-                "projectPath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiPagos\\ApiPagos.csproj"
+              "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiPagos\\ApiPagos.csproj": {
+                "projectPath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiPagos\\ApiPagos.csproj"
               }
             }
           }

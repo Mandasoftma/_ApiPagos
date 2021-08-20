@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ALBcZ/U1AEfAO80Np+5BylHKmsKgpTSpuPoJvGeffFbvRQcpcb8iH3kH6D2hRlVr7BqhP/zeYmqtjEbHdQ44rw==",
+  "dgSpecHash": "1OZ9ZPvBk896magdOm7Ydap7cggiENbCDKCilBlFgWEUbpKKuMpJe3ec0ZseerA7BIwcWld3EyMz+s4TUVfVpg==",
   "success": true,
-  "projectFilePath": "E:\\DBPAGOS\\Entrega\\AppPagos\\ApiFacturas\\ApiFacturas.csproj",
+  "projectFilePath": "E:\\DBPAGOS\\_Repo\\_ApiPagos\\AppPagos\\ApiFacturas\\ApiFacturas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mandasoftma\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Mandasoftma\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
