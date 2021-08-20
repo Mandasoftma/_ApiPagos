@@ -1,0 +1,10 @@
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\bin\Debug\netcoreapp3.1\AppPagos.exe
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\obj\Debug\netcoreapp3.1\AppPagos.csprojAssemblyReference.cache
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\obj\Debug\netcoreapp3.1\AppPagos.AssemblyInfoInputs.cache
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\obj\Debug\netcoreapp3.1\AppPagos.AssemblyInfo.cs
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\obj\Debug\netcoreapp3.1\AppPagos.RazorTargetAssemblyInfo.cache
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\obj\Debug\netcoreapp3.1\staticwebassets\AppPagos.StaticWebAssets.Manifest.cache
+C:\Users\Mandasoftma\source\repos\AppPagos\AppPagos\obj\Debug\netcoreapp3.1\staticwebassets\AppPagos.StaticWebAssets.xml
