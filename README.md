@@ -63,11 +63,14 @@ Prueba Técnica Desarrollo -.NET Core 3.1
  3. Y se visualizan los endpoint para generar la factura y consultar
  4. Para generar una factura el método post requiere un body con los siguientes parámetros:  
 
-
-   int ClienteId  => de 1 a 1000
-   List Productos que recibe siguiente estructura
+#Body
+   
       
-	int Id => de 1 a 1000 
+	int Id => de 1 a 1000
+	int ClienteId => de 1 al 1000
+	Lista productos que recibe la siguiente estructura
+	
+	int Id => de 1 a 1000
         int ProductoId => de 1 a 1000 esto pensando en generar api de productos.
         int Cantidad => de 1 a 1000
         double Precio
